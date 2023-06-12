@@ -10,7 +10,7 @@ A report that explains what cryptocurrencies are for trading at and how they cou
 - 	Created a new DataFrame including predicted clusters and cryptocurrencies features.
 -   ![CC dataframe](https://user-images.githubusercontent.com/113808332/225791791-1d82c1d8-3467-4b6e-8f2d-5884739e3c36.png)
 
-- 	Creatind a 3D-Scatter with the PCA data and the clusters
+- 	Created a 3D-Scatter with the PCA data and the clusters
 - 	![3D scatter with clusters](https://user-images.githubusercontent.com/113808332/225792001-3a70c11d-c433-487a-8cb4-208181b153da.png)
 
 - 	Summary
